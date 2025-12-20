@@ -1,5 +1,4 @@
 
-```markdown
 # 🔐 Password Vault (CLI-Based Secure Password Manager)
 
 A secure, minimal, command-line password manager built with **Python** and modern **cryptography best practices**.  
@@ -151,3 +150,4 @@ Built for learning secure systems & real-world security engineering.
 This project is licensed under the **MIT License**.
 
 ```
+
