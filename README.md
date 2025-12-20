@@ -144,10 +144,3 @@ B.Tech Cyber Security | Ethical Hacking | Cryptography
 Built for learning secure systems & real-world security engineering.
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
-```
-
